@@ -1,0 +1,26 @@
+#container
+{
+    width: 980px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.card{
+    width: 150px;
+    height: 150px;
+    background: #ccc;
+    margin: 10px;
+
+}
+
+#name
+{
+    margin-left: 18px;
+}
+
+img{
+    width: 250px;
+}
